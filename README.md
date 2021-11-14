@@ -1,5 +1,6 @@
 # ShareX-BetterDark
 A darker theme for ShareX
+
 ![BetterDark theme preview](https://i.imgur.com/PazKkhF.png)
 
 # Installation
