@@ -15,5 +15,5 @@ Paste the link below into the dialogue box that just opened and click ok
 Installation Complete
 
 # Customisation
-Once theme theme is installed you can change the accent color by changing the RGB
+Once theme theme is installed you can change the accent color by changing the RGB\n
 values `255, 192, 298` to whatever you want them to be
