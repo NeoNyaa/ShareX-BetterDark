@@ -12,4 +12,4 @@ Installation Complete.
 
 # Customization
 Once theme theme is installed you can change the accent color by changing the RGB  
-values `255, 192, 298` to whatever you want them to be.
+values `255, 192, 208` to whatever you want them to be.
